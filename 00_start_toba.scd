@@ -1,0 +1,1 @@
+/home/skmecs/SuperCollider/TOBA/00_start_toba.scd
